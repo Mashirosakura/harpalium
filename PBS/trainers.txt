@@ -1,9 +1,85 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[CAMPER,Liam]
-LoseText = A very good battle, indeed!
-Pokemon = DIGLETT,10
-Pokemon = BONSLY,11
+[_Mira,Mira]
+LoseText = 
+Pokemon = EEVEE,12
+    Moves = SWIRLYSWIRL,QUICKATTACK,DOUBLEKICK,TAILWHIP
+    Gender = female
+	Name = Hana
+	Form = 1
+	Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[_Mira,Mira,1]
+LoseText = 
+Pokemon = EEVEE,20
+    Moves = SWIRLYSWIRL,QUICKATTACK,DOUBLEKICK,BITE
+    Gender = female
+	Name = Hana
+	Form = 1
+	Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[_Mira,Mira,2]
+LoseText = 
+Pokemon = EEVEE,25
+    Moves = SWIRLYSWIRL,HEADBUTT,DOUBLEKICK,BITE
+    Gender = female
+	Name = Hana
+	Form = 1
+	Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[_Mira,Mira,3]
+LoseText = No! I can't let you do this!
+Pokemon = POIPOLE,30
+    Moves = TOXICSPIKES,VENOSHOCK,PROTECT,VENOMDRENCH
+	Item = SITRUSBERRY
+	Nature = TIMID
+	Shiny = yes
+	Name = Poipoi
+    IV = 31,31,31,31,20,31
+Pokemon = PONYTA,30
+    Moves = PSYBEAM,STOMP,MYSTICALFIRE,ALLYSWITCH
+    AbilityIndex = 1
+    Gender = male
+	Item = SITRUSBERRY
+	Nature = HASTY
+	Form = 1
+	Name = Delon
+    IV = 31,31,31,31,31,31
+Pokemon = DELCATTY,30
+    Moves = FAKEOUT,RETURN,WISH,HELPINGHAND
+    AbilityIndex = 1
+    Gender = female
+	Nature = ADAMANT
+	Happiness = 180
+	Name = Nyanya
+    IV = 31,31,31,31,31,31
+Pokemon = VESPIQUEN,30
+    Moves = CONFUSERAY,AIRSLASH,POLLENPUFF,UTURN
+	Nature = HASTY
+	Item = CHARTIBERRY
+	Happiness = 180
+	Name = Queenie
+    IV = 31,31,31,31,31,31
+Pokemon = BRIONNE,30
+    Moves = SING,HYPERVOICE,LIFEDEW,DRAININGKISS
+	Item = THROATSPRAY
+    AbilityIndex = 1
+    Gender = female
+	Nature = TIMID
+	Name = Marina
+    IV = 31,31,31,31,31,31
+Pokemon = EEVEE,30
+    Moves = SWIRLYSWIRL,FREEZYFROST,DOUBLEKICK,BITE
+    Ability = PROTEAN
+	Item = LEFTOVERS
+    Gender = female
+	Nature = HASTY
+	Form = 1
+	Name = Hana
+    IV = 31,31,31,31,31,31
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
@@ -37,8 +113,8 @@ Pokemon = ELECTABUZZ,20
 #-------------------------------
 [YOUNGSTER,Ben]
 LoseText = Aww, I lost.
-Pokemon = RATTATA,11
-Pokemon = EKANS,11
+Pokemon = RATTATA,3
+Pokemon = EKANS,3
 #-------------------------------
 [CAMPER,Jeff]
 LoseText = A very good battle, indeed!

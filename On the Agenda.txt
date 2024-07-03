@@ -1,0 +1,243 @@
+The Mystery of the Sunflowers
+#=======================================================================
+Glossary of terms
+ - STTE: Spend Time Together Event.
+ - Solgira: The area where the story takes place.
+ - #(CR)#: Confession Route. The story heads towards this based on gained points based on various positive choices.
+ - #(NR)#: Negative Route. The story heads towards this based on gained points based on various negative choices.
+ - #(FR)#: Friendship Route. The story heads towards this based on gained points based on various neutral choices, or a mix of positive/negative.
+#=======================================================================
+Solgira is a subset of a slightly larger settlement, Marigola, connected to it by trainline. 
+ - Marigola houses spots like a museum and a pool. 
+It boasts beautful nature walks, including a local mountain, vibrant orchards and clear white salt beaches.
+It got integrated into Marigola about 20 years prior to the story, and has helped the local population build some of their own tourist attractions, such as the aquarium or the movie theater.
+It used to be a retirement spot but has become more of a school town with Floralys Academy being built on the nearby hillside.
+In the town itself is a a locally run cafe and one medium sized apartment building (which Cleo lives in), that help students stay close to school and can allow guardians to stay nearby should they need to.
+There's been talk about integrating a Pokemon Gym in the area but it hasn't gotten out of the planning phase yet.
+#=======================================================================
+Every lunch break has activities:
+#==========================
+ - A lunch break in the library:
+   - Cleo reads a book, but two other students start having a loud conversation. They eventually get kicked out of the room.
+   - Cleo decides to rent a book to read later, and strikes up a conversation with the librarian, Lana.
+   - Cleo returns the book, and sits down to read another. She starts daydreaming, though.
+   - Cleo finds Mira studying, and the two start doing some work together.
+   - Lana needs to step over to the teacher's lounge for a bit, so Cleo is convinced to manage for a bit.
+   - Lana finds Cleo reading a book about relationship psychology, and figures out Cleo's feelings for Mira.
+#==========================
+ - A lunch break with Mira:
+   - Cleo gives a brief history lesson on Solgira. [Day1, forced]
+   - The two chat about hobbies.
+   - The two chat about food.
+   - The two chat a bit about the past.
+   - The two chat about fears.
+   - The two chat about dreams.
+#==========================
+ - A lunch break in the art room:
+   - Cleo thinks about what art means to her, and tries to think about what piece to do next.
+   - Cleo uses Marie as a model, but she won't sit still.
+   - Cleo tries to use Marie as a model again, hiding her amongst a bowl of fruit, but she just starts snacking on them.
+   - Cleo stares blankly at the canvas for a while, before being discovered by Mira, who offers her a little advice.
+   - Mira finds Cleo trying to use Ray as a model and laughs at her, then offers to be her model next time.
+   - Mira models for Cleo alongside Marie and Hana, cracking a few jokes and making her feel more at ease. Cleo notices a lot more details about her she hadn't picked up on before.
+#==========================
+ - A lunch break of plant watering:
+   - Cleo is asked to help plant a new flower in the greenhouse by the teachers.
+   - Cleo meets Iris watering the plants in the greenhouse and they talk a little about the flowers that are growing there.
+   - Marie plants herself and refuses to come out. Cleo has to have Iris help coax her.
+   - Iris tells Cleo about some of the meanings behind the flowers, as Mira listens in at the door.
+   - Cleo finds Mira watering the plants with Iris and the three of them discuss their favourites.
+   - Cleo asks Iris what the most fitting plant is for a gift. She confirms Cleo's feelings from what she's talking about.
+#==========================
+ - A lunch break of weekly reflection (Friday)
+   - Recounts events that happened that week on lunch breaks.
+#=======================================================================
+On random afternoons of the week, except on Fridays, you get class quizzes that test how much you're paying attention to activities around the school.
+#==========================
+ - On week one, there’s one about the history of Solgira. (only appears after you've done lunchMira 1)
+ - On week two, there’s one about local cuisine.
+ - On week three, there isn’t one, to trip the player up.
+ - On week four, there’s one about local flora.
+ - On week five, there’s one about local geography.
+ - On week six, there isn’t any.
+#=======================================================================
+ - Exploration around town (Wednesday):
+   - Explore the Tournesol Path for your first visit.
+   - In the second week, you can choose a direction and go to either Calillie Orchard, Saltweed Highway, or Blossom Peak.
+    - At each, you have to pick up Quinn, Sally or Ray respectively.
+   - In the third week, you pick one of the two you didn't pick before.
+   - In the fourth week, you pick the last one you haven't done.
+   - On the fifth week, you can go to the Gilded Floweryard or the Cosmos Quietland.
+    - At each, you have to pick up Mella or Chai respectively.
+   - On the sixth week, you go to whichever area you didn't pick.
+   - On the seventh week, you'll have to come to the Forgotten Pool at Blossom Peak to finish the story.
+ - Mira will join you in weeks with even numbers, and offer various comments on your new party members.
+#=======================================================================
+On Friday evening, you get a call from Mira about hanging out:
+#==========================
+ - Choose Sat or Sun to plan the outing.
+ - On the chosen day, you pick between Go or Cancel.
+   - If you pick Go, it triggers a STTE.
+   - If you pick Cancel, you choose another activity.
+#==========================
+ - On other days, you get the same options as if you cancel, which are the following:
+   - Clean your room (It gets dirtier every day).
+   - Watch TV (Can only do 3 times).
+   - Cook food.
+   - Read a book.
+   - Do homework.
+   - Go out and explore the neighbourhood.
+   - Go out and explore around the town.
+   - You can go to the arcade and get a used game (twice).
+   - You can go to Helian Café.
+#=======================================================================
+During weekend STTEs, you can meet up with Mira. 
+#==========================
+ - You meet up with her in the main square, and walk around with her. 
+   - In the Friday planning call, you can pick a location or say you'll decide on the day.
+   - Before the meet up, you pick Cleo's outfit for the day.
+   - During the meet up, you can change your plans on the fly, and there will be a prompt asking if you're sure if you choose to go somewhere you didn't plan.
+    - If you do this more than twice, you'll start getting a negative reaction from Mira, and she'll start commenting on your indecisiveness more during other events.
+ - After 4/6 STTEs, you both go to Helian Café, a place Cleo is already quite acquainted to. 
+   - 
+ - You can choose to do STTEs at the following places:
+   - The aquarium.
+    - 
+    - 
+   - The museum.
+    - 
+    - 
+   - The movies.
+    - 
+    - 
+   - The pool.
+    - 
+    - 
+   - During the 5th week, Mira comes over to Cleo's.
+    - She'll comment on how clean it is if you've cleaned, and how messy it is if you haven't.
+    - 
+   - During the 6th week, you start going towards Helian Café, but Cleo decides to take a detour.
+	- If there is quite a lot of negative checks (3+ cancels/2+ plan swaps/messy room/awkward dialogue choices), Cleo confesses how she's never had a friend like her,
+	  but Mira comes clean and says she doesn't like a lot of her personality, then leaves. #(NR)#
+    - Depending on how many positive checks you get during the past 6 weeks, Cleo confesses her feelings at the pier-side.
+	 - Mira doesn't know how to handle this and runs off, and Cleo misinterprets it as a rejection. She then makes her way to Helian Café alone. #(CR)#
+	 - There's then a scene of Mira telling herself she's such an idiot for running off like that, commenting that of course she feels the same.
+    - Otherwise, Cleo confesses how she's never had a friend like her which is reciprocated, and the two continue to Helian. #(FR)#
+	- If on the negative route, Euthie will comment on how she's alone again, and asks if she's done something to upset Mira, but Cleo responds that she's just done like usual.
+	- If on the confession route, Euphie will comment on how she's alone today and Cleo will burst into tears and tell her she's screwed everything up.
+	  - The crew then do their best to cheer her up.
+	- If on the friendship route, the two of them spend a bit of time chatting about various things that have happened over the past 6 weeks.
+	  - The crew comments how friendly they are today.
+	  - As you're about to leave, Mira says, with a slightly sad expression, that she's really glad to be her friend.
+#=======================================================================
+Cleo's Team
+#==========================
+ - Marie (Sunkern > Sunflora)
+  - In by default.
+  - Evolves by Sun Stone (found in Cosmos Quietlands).
+  - BST is 315; 30,75,30,75,75,30 as Sunkern.
+  - BST is 480; 75,85,55,75,105,80 as Sunflora.
+  - Learns Sappy Seed (60bp, 10pp, sets up Leech Seed).
+#==========================
+ - Quinn (Ducklett > Swanna)
+  - Obtained at the Calillie Orchard.
+  - Evolves at lv24.
+  - BST is 305; 62,44,50,55,44,50 (aka standard) as Ducklett.
+  - BST is 473; 75,87,63,98,87,63 (aka standard) as Swanna.
+  - Learns Bouncy Bubble (60bp, 10pp, heals 50% of dmg).
+#==========================
+ - Quinn's Quest:
+  -
+#==========================
+ - Sally (Nacli > Naclstack)
+  - Obtained at the Saltweed Highway.
+  - Evolves at lv24.
+  - BST is 305; 75,55,75,25,35,40 as Nacli.
+  - BST is 440; 100,100,100,35,35,70 as Naclstack.
+  - Learns Rocky Rubble (60bp, 10pp, 50% flinch).
+#==========================
+ - Sally's Quest:
+  -
+#==========================
+ - Ray (Rellor > Rabsca)
+  - Obtained at Blossom Mountain.
+  - Evolves at high friendship (will be at 120 by default).
+  - BST is 270; 41,50,60,30,31,58 (aka standard) as Rellor.
+  - BST is 470; 75,50,85,45,115,100 (aka standard) as Rabsca.
+  - Learns Glitzy Glow (60bp, 10pp, sets up Light Screen).
+#==========================
+ - Ray's Quest:
+  -
+#==========================
+ - Chai (Sinistea > Polteageist)
+  - Obtained at the Cosmos Quietlands.
+  - Evolves with Chipped Pot (found at the Gilded Floweryard).
+  - BST is 308; 40,45,45,50,74,54 (aka standard) as Sinistea.
+  - BST is 478; 60,35,65,70,134,114 as Polteageist.
+  - Learns Baddy Bad (60bp, 10pp, sets up Reflect).
+#==========================
+ - Chai's Quest:
+  -
+#==========================
+ - Mella (Meltan > Melmetal)
+  - Obtained at the Gilded Floweryard.
+  - Evolves after obtaining 6 Mystery Metals and levelling up.
+  - BST is 300; 46,65,65,34,55,35 (aka standard) as Meltan.
+  - BST is 500; 135,93,95,34,80,65 as Melmetal.
+#==========================
+ - Mella's Quest:
+  -
+#=======================================================================
+Week 7:
+#==========================
+ - Mira will not show up to school on Monday.
+  - #(CR)#, Cleo will worry she's scared her off.
+  - #(NR)#, Cleo will be expressionless.
+  - #(FR)#, Cleo will be confused since she'd seen her recently and she'd seemed fine.
+#==========================
+ - Mira will not show up to school on Tuesday.
+  - Iris and Lana will ask about her.
+   - #(CR)#, Cleo tells them about it. They reassure her it's probably not anything to do with that.
+   - #(NR)#, Cleo doesn't really know what to tell them. She sits thinking about everything, before sighing and saying she's sad that she's lost another person. (GAME ENDS HERE FOR NR)
+   - #(FR)#, Cleo tells them she has no idea what's going on, though comments on her sad expression at the end.
+#==========================
+ - Mira will not show up to school on Wednesday.
+ - The teacher himself is also getting confused now and comments how he's not been getting through to her phone.
+ - Cleo hears this and without saying a word, leaves the classroom despite her teacher's calls.
+ - The scene cuts to her running through town and encountering Shima. She confronts him.
+  - Though initially confused, he starts putting things together.
+  - He tells her that whilst he isn't directly involved, he has an idea of where she went.
+  - He reiterates the fact that he was here to find and keep an eye on an anomaly, which is where it clicks in Cleo's head that he's only been hanging around town since Mira appeared.
+  - Seeing her look of realisation, he states that she's probably gone back to the place where she came from initially. He asks her to remember if she'd taken any interest in anywhere recently.
+   - If you'd gone to the Forgotten Pool with her prior to this, it will spark inspiration.
+   - Otherwise, you'll have to find out on your own.
+  - Shima offers to come with her since he feels responsible for not doing his job better, and stating that time is of the essence if it's been two days already.
+#==========================
+ - Arriving at the Forgotten Pool, there's a portal on top of the water.
+ - Shima despairs that he didn't notice the disturbance on his radar, blaming the cave walls blocking it, and that he was going to have a word with the tech sector later.
+ - Cleo doesn't understand what he's talking about and asks if that's where Mira is, to which he states it is.
+ - Without saying anything in response, she steps into the portal, with Shima commenting that teenage girls are so rash.
+#==========================
+ - She ends up in an identical cave, initially confusing her.
+ - When she leaves, she finds herself in a floating version of Blossom Peak, and ventures forward.
+ - After making her way through it, she ends up in a split version of the Tournesol Path.
+ - The only available way forward is towards where the Calillie Orchard equivalent would be.
+ - On the other side of that is the Cosmos Quietlands equivalent, which opens up into the Gilded Floweryard one.
+ - Emerging into the Saltweed Highway variant, Cleo heads back up to the Tournesol path one.
+ - At the end of this long trip, Cleo arrives in a destroyed town called Lunegira, that she discovers with a surviving signpost.
+#==========================
+ - It's at this point that Shima catches up with her. He comments on the dire state of the town.
+ - She asks him if he can find Mira, but he says he can only pinpoint her anomaly in her world, since the presence is distinct there.
+ - She gets exasperated, tells him he's useless and wanders off to find a way through to the other side of town.
+ - After a bit of manoeuvring around the ruins, Cleo makes her way to her objective.
+  - You can pass by where her house is in the normal world and get some additional dialogue.
+ - At the pier-side, there's a way down to the beach below that she decides to follow.
+#==========================
+ - After a bit of a walk along the beachside, Cleo finally catches up with Mira, who she finds staring out at the horizon.
+ - Mira initially thinks she's dreaming.
+  - In the confession route, she says she's sorry for running off like she did.
+  - In the friendship route, she says she's sorry for leaving without saying anything.
+ - Cleo says that doesn't matter since she's found her, which is all that counts.
+  - Mira muses that if she's here she knows that she's not from her world.
+ -
+#========================== 

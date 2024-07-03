@@ -5,8 +5,8 @@ StartMoney = 3000
 StartItemStorage = POTION
 Home = 3,7,5,8
 StorageCreator = Bill
-WildBattleBGM = Battle wild
-TrainerBattleBGM = Battle trainer
+WildBattleBGM = Estrella - Atelier Meruru
+TrainerBattleBGM = Balmy Summer Breeze - Atelier Ryza 2
 WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
 SurfBGM = Surfing
@@ -14,20 +14,30 @@ BicycleBGM = Bicycle
 #-------------------------------
 [1]
 TrainerType = POKEMONTRAINER_Red
-WalkCharset = trainer_POKEMONTRAINER_Red
-RunCharset = boy_run
+WalkCharset = _Cleo
+RunCharset = _Cleo_run
 CycleCharset = boy_bike
 SurfCharset = boy_surf
 DiveCharset = boy_surf
-FishCharset = boy_fish_offset
+FishCharset = _Cleo_fish_offset
 SurfFishCharset = boy_fish_offset
 #-------------------------------
 [2]
-TrainerType = POKEMONTRAINER_Leaf
-WalkCharset = trainer_POKEMONTRAINER_Leaf
-RunCharset = girl_run
+TrainerType = _Cleo
+WalkCharset = _Cleo
+RunCharset = _Cleo_run
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+DiveCharset = boy_surf
+FishCharset = _Cleo_fish_offset
+SurfFishCharset = boy_fish_offset
+#-------------------------------
+[3]
+TrainerType = _Mira
+WalkCharset = _Mira
+RunCharset = _Mira_run
 CycleCharset = girl_bike
 SurfCharset = girl_surf
 DiveCharset = girl_surf
-FishCharset = girl_fish_offset
+FishCharset = _Mira_fish_offset
 SurfFishCharset = girl_fish_offset

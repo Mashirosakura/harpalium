@@ -1,0 +1,9 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[MYSTERYMETAL]
+Name = Mystery Metal
+NamePlural = Mystery Metals
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = A mysterious metal found hidden around Solgira. It's durable but very flexible.

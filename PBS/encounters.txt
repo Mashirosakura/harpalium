@@ -33,7 +33,7 @@ LandNight,21
     1,HOOTHOOT,14
     1,RATTATA,15
 PokeRadar,20
-    100,STARLY,12,15
+    100,STARLY,2,5
 #-------------------------------
 [005,1] # Route 1
 Land,21
@@ -46,29 +46,29 @@ LandNight,21
     40,RATTATA,14,18
     30,HOOTHOOT,14,17
     20,SPINARAK,12,16
-    10,CLEFAIRY,11,15
+    10,CLEFAIRY,2,5
 #-------------------------------
 [021] # Route 2
 Land,21
-    50,RATTATA,12,15
-    30,POOCHYENA,11,15
-    10,SHINX,10,12
-    10,SHINX,10,11
+    50,RATTATA,2,5
+    30,POOCHYENA,2,5
+    10,SHINX,2,5
+    10,SHINX,2,5
 Water,2
     60,MAGIKARP,7,10
     30,GOLDEEN,11,14
-    10,STARYU,12,15
+    10,STARYU,2,5
 OldRod
     70,MAGIKARP,7,10
     30,MAGIKARP,9,15
 GoodRod
     60,GOLDEEN,12,14
-    20,FINNEON,12,15
+    20,FINNEON,2,5
     20,MAGIKARP,12,17
 SuperRod
-    40,FINNEON,12,15
+    40,FINNEON,2,5
     40,GOLDEEN,12,14
-    15,STARYU,12,15
+    15,STARYU,2,5
     5,STARYU,14,17
 HeadbuttLow
     50,PINECO,11,13
@@ -98,8 +98,8 @@ LandNight,21
     10,DROWZEE,9,15
     10,NATU,12,14
 LandMorning,21
-    25,CATERPIE,10,12
-    25,WEEDLE,10,12
+    25,CATERPIE,2,5
+    25,WEEDLE,2,5
     20,PIDGEY,10,14
     15,KAKUNA,10
     15,METAPOD,10
@@ -110,8 +110,8 @@ BugContest,21
     10,METAPOD,9,18
     10,PARAS,10,17
     10,VENONAT,10,16
-    5,BEEDRILL,12,15
-    5,BUTTERFREE,12,15
+    5,BEEDRILL,2,5
+    5,BUTTERFREE,2,5
     5,PINSIR,13,14
     5,SCYTHER,13,14
 PokeRadar,40
@@ -120,8 +120,8 @@ PokeRadar,40
 #-------------------------------
 [031] # Route 3
 Land,21
-    30,NIDORANfE,12,15
-    30,NIDORANmA,12,15
+    30,NIDORANfE,2,5
+    30,NIDORANmA,2,5
     20,PIKACHU,14,17
     10,EEVEE,15
     10,PONYTA,13,15
@@ -133,7 +133,7 @@ OldRod
     70,MAGIKARP,6,11
     30,MAGIKARP,10,17
 GoodRod
-    60,POLIWAG,12,15
+    60,POLIWAG,2,5
     20,PSYDUCK,11,14
     20,WOOPER,13,17
 SuperRod
@@ -142,7 +142,7 @@ SuperRod
     20,LUVDISC,10,16
 RockSmash,50
     60,NOSEPASS,13,14
-    40,GEODUDE,12,15
+    40,GEODUDE,2,5
 HeadbuttLow
     30,PINECO,14,17
     25,COMBEE,15,17
@@ -154,19 +154,19 @@ HeadbuttLow
 HeadbuttHigh
     50,SEEDOT,14,17
     30,SHROOMISH,14,17
-    20,BURMY,12,15
+    20,BURMY,2,5
 #-------------------------------
 [034] # Ice Cave
 Cave,5
     40,SWINUB,16,18
     20,SNEASEL,14,16
-    20,SNORUNT,12,15
+    20,SNORUNT,2,5
     10,SMOOCHUM,11,14
     10,SNOVER,14
 #-------------------------------
 [039] # Route 4
 Land,21
-    50,SHELLOS_1,12,15
+    50,SHELLOS_1,2,5
     40,GRIMER,13,15
     10,MURKROW,12,14
 #-------------------------------
@@ -178,19 +178,19 @@ Land,21
 #-------------------------------
 [044] # Route 6
 Land,21
-    50,SHELLOS_1,12,15
+    50,SHELLOS_1,2,5
     40,GRIMER,13,15
     10,MURKROW,12,14
 #-------------------------------
 [047] # Route 7
 Land,21
-    50,SHELLOS,12,15
+    50,SHELLOS,2,5
     30,BIDOOF,14,17
     10,MURKROW,12,14
     10,WURMPLE,9,12
 RockSmash,50
     90,NOSEPASS,13,14
-    10,GEODUDE,12,15
+    10,GEODUDE,2,5
 #-------------------------------
 [049] # Rock Cave 1F
 Cave,5
@@ -221,7 +221,7 @@ Cave,5
 #-------------------------------
 [066] # Safari Zone outside
 Land,21
-    20,ABRA,12,15
+    20,ABRA,2,5
     20,DODUO,13,15
     20,NIDORANfE,15,16
     20,NIDORANmA,15,16

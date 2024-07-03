@@ -1,0 +1,148 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[SAPPYSEED]
+Name = Sappy Seed
+Type = GRASS
+Category = Physical
+Power = 60
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = StartLeechSeedTarget
+Flags = CanProtect,CanMirrorMove
+Description = The user grows a gigantic stalk that scatters seeds to attack the target. The seeds drain the target’s HP every turn.
+#-------------------------------
+[TRAILBLAZE]
+Name = Trailblaze
+Type = GRASS
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+EffectChance = 100
+FunctionCode = RaiseUserSpeed1
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.
+#-------------------------------
+[CHLOROBLAST]
+Name = Chloroblast
+Type = GRASS
+Category = Special
+Power = 150
+Accuracy = 95
+TotalPP = 5
+Target = NearOther
+FunctionCode = RecoilHalfOfDamageDealt
+Flags = CanProtect,CanMirrorMove 
+Description = The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user.
+#-------------------------------
+[BOUNCYBUBBLE]
+Name = Bouncy Bubble
+Type = WATER
+Category = Special
+Power = 60
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = HealUserByHalfOfDamageDone
+Flags = CanProtect,CanMirrorMove
+Description = The user attacks by shooting water bubbles at the target. It then absorbs water and restores its HP by half the damage taken by the target.
+#-------------------------------
+[ROCKYRUBBLE]
+Name = Rocky Rubble
+Type = ROCK
+Category = Physical
+Power = 60
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = FlinchTarget
+Flags = Contact,CanProtect,CanMirrorMove
+EffectChance = 50
+Description = The user attacks whilst throwing pebbles at the target. The impact can cause the target to flinch.
+#-------------------------------
+[GLITZYGLOW]
+Name = Glitzy Glow
+Type = PSYCHIC
+Category = Special
+Power = 60
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = StartWeakenSpecialDamageAgainstUserSide
+Flags = CanProtect,CanMirrorMove
+Description = The user bombards the target with telekinetic force. A wondrous wall of light is put up to weaken the power of the opposing Pokémon's special moves.
+#-------------------------------
+[BADDYBAD]
+Name = Baddy Bad
+Type = DARK
+Category = Special
+Power = 60
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = StartWeakenPhysicalDamageAgainstUserSide
+Flags = CanProtect,CanMirrorMove
+Description = The user acts bad and attacks the target. A wondrous wall of light is put up to weaken the power of the opposing Pokémon's physical moves.
+#-------------------------------
+[FREEZYFROST]
+Name = Freezy Frost
+Type = ICE
+Category = Special
+Power = 80
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = ResetAllBattlersStatStages
+Flags = CanProtect,CanMirrorMove
+Description = The user attacks with a crystal made of cold frozen haze. It eliminates every stat change among all the Pokémon engaged in battle.
+#-------------------------------
+[SWIRLYSWIRL]
+Name = Swirly Swirl
+Type = FAIRY
+Category = Special
+Power = 60
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = CureUserPartyStatus
+Flags = CanProtect,CanMirrorMove
+Description = The user attacks the target by wrapping it with a whirlwind of an overpowering scent. This also heals all status conditions of the user's party.
+#-------------------------------
+[SALTCURE]
+Name = Salt Cure
+Type = ROCK
+Category = Physical
+Power = 40
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = StartSaltCureTarget
+Flags = CanProtect,CanMirrorMove,CannotMetronome
+EffectChance = 100
+Description = The user salt cures the target, inflicting damage every turn. Steel and Water types take more damage.
+#-------------------------------
+[REVIVALBLESSING]
+Name = Revival Blessing
+Type = NORMAL
+Category = Status
+Accuracy = 0
+TotalPP = 1
+Target = User
+FunctionCode = RevivePokemonHalfHP
+Flags = CannotMetronome,CantMaster
+Description = The user revives a party Pokémon that has fainted and restores half their max HP.
+#-------------------------------
+[POUNCE]
+Name = Pounce
+Type = BUG
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = LowerTargetSpeed1
+Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
+EffectChance = 100
+Description = The user attacks by pouncing on the target. This also lowers the target’s Speed stat.

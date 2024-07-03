@@ -10,6 +10,16 @@ Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
+[_Cleo]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[_Mira]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
 [POKEMONTRAINER_Brendan]
 Name = Pokémon Trainer
 Gender = Male
