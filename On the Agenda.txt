@@ -18,7 +18,7 @@ There's been talk about integrating a Pokemon Gym in the area but it hasn't gott
 Every lunch break has activities:
 #==========================
  - A lunch break in the library:
-   - Cleo reads a book, but two other students start having a loud conversation. They eventually get kicked out of the room.
+   - Cleo reads a book, but two other students start having a loud conversation. They eventually get kicked out of the room. [Day4, forced]
    - Cleo decides to rent a book to read later, and strikes up a conversation with the librarian, Lana.
    - Cleo returns the book, and sits down to read another. She starts daydreaming, though.
    - Cleo finds Mira studying, and the two start doing some work together.
@@ -34,7 +34,7 @@ Every lunch break has activities:
    - The two chat about dreams.
 #==========================
  - A lunch break in the art room:
-   - Cleo thinks about what art means to her, and tries to think about what piece to do next.
+   - Cleo thinks about what art means to her, and tries to think about what piece to do next. [Day3, forced]
    - Cleo uses Marie as a model, but she won't sit still.
    - Cleo tries to use Marie as a model again, hiding her amongst a bowl of fruit, but she just starts snacking on them.
    - Cleo stares blankly at the canvas for a while, before being discovered by Mira, who offers her a little advice.
@@ -42,7 +42,7 @@ Every lunch break has activities:
    - Mira models for Cleo alongside Marie and Hana, cracking a few jokes and making her feel more at ease. Cleo notices a lot more details about her she hadn't picked up on before.
 #==========================
  - A lunch break of plant watering:
-   - Cleo is asked to help plant a new flower in the greenhouse by the teachers.
+   - Cleo is asked to help plant a new flower in the greenhouse by the teachers. [Day2, forced]
    - Cleo meets Iris watering the plants in the greenhouse and they talk a little about the flowers that are growing there.
    - Marie plants herself and refuses to come out. Cleo has to have Iris help coax her.
    - Iris tells Cleo about some of the meanings behind the flowers, as Mira listens in at the door.

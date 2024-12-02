@@ -9,7 +9,7 @@ Outdoor = false
 SnapEdges = true
 #-------------------------------
 ###########################################
-# Reverse World
+# Floralys
 ###########################################
 #-------------------------------
 [003]   # Floralys Academy
@@ -18,7 +18,7 @@ Outdoor = false
 ShowArea = true
 BattleBack = field
 SnapEdges = true
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 [004]   # Floor 1
 Name = Floralys Academy
@@ -56,6 +56,12 @@ Outdoor = false
 SnapEdges = true
 ShowArea = true
 #-------------------------------
+[012]   # Library
+Name = Library
+Outdoor = false
+SnapEdges = true
+ShowArea = true
+#-------------------------------
 [018]   # Science Room
 Name = Science Room
 Outdoor = false
@@ -73,7 +79,7 @@ Name = Floralys Garden
 Outdoor = false
 ShowArea = true
 SnapEdges = true
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 ###########################################
 # Solgira
@@ -84,7 +90,7 @@ Name = Solgira
 Outdoor = false
 ShowArea = true
 SnapEdges = true
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 [026]   # Apartments
 Name = Solgira Apartments
@@ -125,7 +131,7 @@ Outdoor = false
 ShowArea = true
 BattleBack = field
 SnapEdges = true
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 [033]   # Museum
 Name = Marigola Natural History Museum
@@ -152,7 +158,7 @@ Outdoor = false
 ShowArea = true
 SnapEdges = true
 BattleBack = field
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 [021]   # Calillie Orchard
 Name = Calillie Orchard
@@ -160,7 +166,7 @@ Outdoor = false
 ShowArea = true
 BattleBack = forest
 SnapEdges = true
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 [022]   # Saltweed Highway
 Name = Saltweed Highway
@@ -168,7 +174,7 @@ Outdoor = false
 ShowArea = true
 SnapEdges = true
 BattleBack = field
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 [023]   # Blossom Peak
 Name = Blossom Peak
@@ -176,7 +182,7 @@ Outdoor = false
 ShowArea = true
 SnapEdges = true
 BattleBack = rocky
-Weather = Sun,20
+Weather = Sun,5
 #-------------------------------
 [028]   # Gilded Floweryard
 Name = Gilded Floweryard
